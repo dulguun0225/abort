@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start" : "ts-node index.ts"
+  },
   "dependencies": {
     "@types/node": "^20.11.20",
     "@types/node-fetch": "^2",
