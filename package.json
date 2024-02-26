@@ -1,0 +1,13 @@
+{
+  "name": "abort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.20",
+    "@types/node-fetch": "^2",
+    "node-fetch": "^2",
+    "ts-node": "^10.9.2",
+    "typescript": "4.9.5"
+  }
+}
